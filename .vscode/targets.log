@@ -1,6 +1,4 @@
 make all --print-data-base --no-builtin-variables --no-builtin-rules --question
-make: *** No rule to make target 'all'.  Stop.
- 
 # GNU Make 4.3
 # Built for x86_64-redhat-linux-gnu
 # Copyright (C) 1988-2020 Free Software Foundation, Inc.
@@ -8,7 +6,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Dec 16 15:00:10 2021
+# Make data base, printed on Fri Dec 17 09:50:36 2021
 
 # Variables
 
@@ -23,15 +21,13 @@ NO_AT_BRIDGE = 1
 # environment
 GJS_DEBUG_OUTPUT = stderr
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-df53239d-3dce-488a-9805-5f92bba03c62.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-bc5a8d07-ab2f-45db-8f34-d68ee6b4225f.sock
 # environment
 VSCODE_CWD = /home/rmrfslashbin
 # environment
 GDM_LANG = en_US.UTF-8
 # default
 MAKE_COMMAND := make
-# environment
-GOPATH = /home/rmrfslashbin/go
 # automatic
 @D = $(patsubst %/,%,$(dir $@))
 # environment
@@ -59,11 +55,11 @@ VSCODE_LOG_STACK = false
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = /home/rmrfslashbin/.config/Code/CachedData/fe719cd3e5825bf14e14182fddeb88ee8daf044f
+VSCODE_CODE_CACHE_PATH = /home/rmrfslashbin/.config/Code/CachedData/899d46d82c4c95423fb7e10e68eba52050e30ba3
 # environment
 LANG = C
 # environment
-XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.ERUME1
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.OZ3KE1
 # default
 .LOADED := 
 # default
@@ -105,7 +101,7 @@ ZSH = /home/rmrfslashbin/.oh-my-zsh
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 358545
+VSCODE_PID = 5230
 # environment
 XDG_SESSION_TYPE = wayland
 # environment
@@ -117,7 +113,7 @@ FZF_DEFAULT_COMMAND = fd --type file --follow --hidden --exclude .git--color=alw
 # environment
 MANPAGER = sh -c 'col -bx | bat -l man -p'
 # environment
-SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/2856,unix/unix:/tmp/.ICE-unix/2856
+SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/3212,unix/unix:/tmp/.ICE-unix/3212
 # automatic
 *F = $(notdir $*)
 # environment
@@ -155,7 +151,7 @@ MAKEFILES :=
 # automatic
 ^F = $(notdir $^)
 # environment
-INVOCATION_ID = 355d9cbceaf346fca790a2d1374b1570
+INVOCATION_ID = 69c706bbc2cd41a19c38908627d7ddf3
 # environment
 TSS2_LOG = fapi+NONE
 # environment
@@ -187,7 +183,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := default_goal
 # environment
-SYSTEMD_EXEC_PID = 2891
+SYSTEMD_EXEC_PID = 3245
 # environment
 HISTCONTROL = ignoredups
 # environment
@@ -201,13 +197,13 @@ MAKE_VERSION := 4.3
 # environment
 MANROFFOPT = -c
 # environment
-MANAGERPID = 2744
+MANAGERPID = 3105
 # environment
 which_declare = typeset -f
 # environment
 DEBUGINFOD_URLS = https://debuginfod.fedoraproject.org/ 
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 358545
+GIO_LAUNCHED_DESKTOP_FILE_PID = 5230
 # environment
 PAGER = less
 # environment
@@ -215,9 +211,7 @@ _ = /usr/bin/make
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
-GOMODCACHE = /home/rmrfslashbin/go/pkg/mod
-# environment
-JOURNAL_STREAM = 8:38680
+JOURNAL_STREAM = 8:33328
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -229,9 +223,7 @@ QT_IM_MODULE = ibus
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-VSCODE_IPC_HOOK = /run/user/1000/vscode-aa34fd1a-1.63.1-main.sock
-# environment
-GOPROXY = https://proxy.golang.org,direct
+VSCODE_IPC_HOOK = /run/user/1000/vscode-aa34fd1a-1.63.2-main.sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -245,7 +237,7 @@ XDG_MENU_PREFIX = gnome-
 # environment
 GDMSESSION = gnome
 # variable set hash-table stats:
-# Load=116/1024=11%, Rehash=0, Collisions=8/146=5%
+# Load=113/1024=11%, Rehash=0, Collisions=7/143=5%
 
 # Pattern-specific Variable Values
 
@@ -286,7 +278,6 @@ install-test:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
- 
 #  Last modified 2021-12-15 16:59:33.122590834
 #  File has been updated.
 #  Successfully updated.
@@ -318,6 +309,9 @@ build: install-test
 #  Modification time never checked.
 #  File has not been updated.
 #  recipe to execute (from 'Makefile', line 12):
+ 
+make: *** No rule to make target 'all'.  Stop.
+ 
 	@echo "Building..."
 	rm -rf public
 	hugo
@@ -337,6 +331,6 @@ build: install-test
 # strcache performance: lookups = 41 / hit rate = 34%
 # hash-table stats:
 # Load=27/8192=0%, Rehash=0, Collisions=0/41=0%
-# Finished Make data base on Thu Dec 16 15:00:10 2021
+# Finished Make data base on Fri Dec 17 09:50:36 2021
 
  
