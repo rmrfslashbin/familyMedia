@@ -1,0 +1,20 @@
+---
+title: Rachael's Birthday
+album:
+  url_root: https://is-family-media.s3.amazonaws.com/images
+  slug: RachaelsBDay
+  type: png
+  sizes:
+  - source
+  - "256"
+  - "768"
+  images:
+  - 64af42f5c45744921d8785eddb048bc929829f42b7a4a7fe0de51751cc819188
+  - 9bab1391123c69a812371e6a8783dfe66f3ebbbe17b1968f36a8f19d9aaba5b7
+  - 1722f09a62fcfbcd58ee1db8c885193506c7f798f98c471a8d8f5058493a4fa4
+  - 55afb16089515c9d4ac57654e32e1f605632bbf8ef459c901315a1e3ecd8fb45
+  - 7ad187cd19672554028c5694e7650e10c619a1585224f0dc0160798812580297
+  - 9098977b429ff1b6ec1fc97b03292267add64677586f0a368fc96200f028243c
+  - 2a6bb4cc72c3999a932cda90b21d8c4f5fc057af81d31701696d684e21165d32
+---
+{{< album >}}

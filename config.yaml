@@ -2,13 +2,17 @@ baseURL: https://family.sigler.io/
 languageCode: en-us
 title: Family Media
 theme: papermod
-env: production
+minify:
+  disableXML: true
+  minifyOutput: true
 outputs:
   home:
     - HTML
     - RSS
     - JSON
 params:
+  disableSpecial1stPost: true
+  env: production
   description: "Family media, you know... for the family."
   ShowToc: false
   fuseOpts:
@@ -18,17 +22,21 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ["title", "permalink"]
 menu:
   main:
     - identifier: search
+      name: search
+      url: /search/
+      weight: 10
+    - identifier: photos
       name: photos
       url: /photos/
-      weight: 10
+      weight: 20
     - identifier: videos
       name: videos
       url: /videos/
-      weight: 20
+      weight: 30
       #deployment:
       #  targets:
       #    name: aws

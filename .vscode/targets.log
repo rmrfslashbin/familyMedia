@@ -1,174 +1,251 @@
 make all --print-data-base --no-builtin-variables --no-builtin-rules --question
-# GNU Make 3.81
-# Copyright (C) 2006  Free Software Foundation, Inc.
-# This is free software; see the source for copying conditions.
-# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
-# PARTICULAR PURPOSE.
+make: *** No rule to make target 'all'.  Stop.
+ 
+# GNU Make 4.3
+# Built for x86_64-redhat-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
 
-# This program built for i386-apple-darwin11.3.0
-
-# Make data base, printed on Wed Dec 15 19:08:32 2021
+# Make data base, printed on Thu Dec 16 15:00:10 2021
 
 # Variables
 
-# automatic
-<D = $(patsubst %/,%,$(dir $<))
-# automatic
-?F = $(notdir $?)
-# environment
-VSCODE_LOG_NATIVE = false
-# automatic
-?D = $(patsubst %/,%,$(dir $?))
-# automatic
-@D = $(patsubst %/,%,$(dir $@))
-# automatic
-@F = $(notdir $@)
-# makefile
-CURDIR := /Users/rmrfslashbin/src/github.com/rmrfslashbin/familyMedia
-# makefile
-SHELL = /bin/sh
-# environment
-MANPAGER = sh -c 'col -bx | bat -l man -p'
-# environment
-FZF_DEFAULT_COMMAND = fd --type file --follow --hidden --exclude .git--color=always
-# environment
-VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
-# environment
-_ = /usr/bin/make
-# makefile (from `Makefile', line 1)
-MAKEFILE_LIST :=  Makefile
-# environment
-VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
-# environment
-VSCODE_VERBOSE_LOGGING = true
-# environment
-__CFBundleIdentifier = com.microsoft.VSCode
-# environment
-INFOPATH = /opt/homebrew/share/info:
-# environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/kf/vn73vkyj5bg73fvpp6cvz6rw0000gn/T/vscode-ipc-22a3b4d6-3c8b-4e43-a457-76f0458b7175.sock
-# environment
-VSCODE_CWD = /
-# environment
-GOPROXY = https://proxy.golang.org,direct
-# environment
-PATH = /opt/homebrew/opt/coreutils/libexec/gnubin:/Users/rmrfslashbin/go/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/opt/fzf/bin
-# environment
-LSCOLORS = Gxfxcxdxbxegedabagacad
-# environment
-GOPATH = /Users/rmrfslashbin/go
-# environment
-VSCODE_LOG_STACK = false
-# environment
-ELECTRON_RUN_AS_NODE = 1
-# default
-.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
-# environment
-SSH_AUTH_SOCK = /var/folders/kf/vn73vkyj5bg73fvpp6cvz6rw0000gn/T//ssh-8suE0bP5NrH3/agent.570
-# automatic
-%F = $(notdir $%)
-# environment
-VSCODE_PIPE_LOGGING = true
-# environment
-PWD = /Users/rmrfslashbin/src/github.com/rmrfslashbin/familyMedia
-# environment
-HOMEBREW_CELLAR = /opt/homebrew/Cellar
-# environment
-SSH_AGENT_PID = 575
-# environment
-ORIGINAL_XDG_CURRENT_DESKTOP = undefined
-# environment
-MANPATH = /opt/homebrew/share/man::
-# environment
-GOMODCACHE = /Users/rmrfslashbin/go/pkg/mod
-# environment
-HOME = /Users/rmrfslashbin
-# default
-MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
-# environment
-VSCODE_CODE_CACHE_PATH = /Users/rmrfslashbin/Library/Application Support/Code/CachedData/fe719cd3e5825bf14e14182fddeb88ee8daf044f
-# environment
-LOGNAME = rmrfslashbin
-# environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
-# environment
-ZSH = /Users/rmrfslashbin/.oh-my-zsh
-# environment
-VSCODE_HANDLES_UNCAUGHT_ERRORS = true
-# automatic
-^D = $(patsubst %/,%,$(dir $^))
-# environment
-XPC_FLAGS = 0x0
-# default
-MAKE = $(MAKE_COMMAND)
-# default
-MAKECMDGOALS := all
-# environment
-SHLVL = 1
-# default
-MAKE_VERSION := 3.81
-# environment
-USER = rmrfslashbin
-# makefile
-.DEFAULT_GOAL := default_goal
-# environment
-LESS = -R
-# automatic
-%D = $(patsubst %/,%,$(dir $%))
-# default
-MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
-# default
-.VARIABLES := 
-# environment
-TMPDIR = /var/folders/kf/vn73vkyj5bg73fvpp6cvz6rw0000gn/T/
-# automatic
-*F = $(notdir $*)
-# environment
-VSCODE_IPC_HOOK = /Users/rmrfslashbin/Library/Application Support/Code/1.63.1-main.sock
-# makefile
-MAKEFLAGS = Rrqp
-# environment
-MFLAGS = -Rrqp
-# automatic
-*D = $(patsubst %/,%,$(dir $*))
-# environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.1598574.1598580
-# environment
-HOMEBREW_PREFIX = /opt/homebrew
-# automatic
-+D = $(patsubst %/,%,$(dir $+))
-# automatic
-+F = $(notdir $+)
-# environment
-HOMEBREW_REPOSITORY = /opt/homebrew
-# environment
-__CF_USER_TEXT_ENCODING = 0x1F5:0x0:0x0
-# environment
-COMMAND_MODE = unix2003
-# default
-MAKEFILES := 
-# automatic
-<F = $(notdir $<)
-# environment
-EDITOR = nvim
-# environment
-PAGER = less
-# environment
-LC_ALL = C
-# automatic
-^F = $(notdir $^)
-# default
-SUFFIXES := 
-# environment
-MAKELEVEL := 0
 # environment
 FZF_DEFAULT_OPTS = --ansi
 # environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# environment
+GJS_DEBUG_OUTPUT = stderr
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-df53239d-3dce-488a-9805-5f92bba03c62.sock
+# environment
+VSCODE_CWD = /home/rmrfslashbin
+# environment
+GDM_LANG = en_US.UTF-8
+# default
+MAKE_COMMAND := make
+# environment
+GOPATH = /home/rmrfslashbin/go
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/rmrfslashbin/family-media
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+HOSTNAME = sock-diet
+# environment
+LSCOLORS = Gxfxcxdxbxegedabagacad
+# environment
+MAIL = /var/spool/mail/rmrfslashbin
+# environment
+XDG_DATA_DIRS = /home/rmrfslashbin/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/
+# environment
+OLDPWD = /home/rmrfslashbin
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/rmrfslashbin/.config/Code/CachedData/fe719cd3e5825bf14e14182fddeb88ee8daf044f
+# environment
 LANG = C
 # environment
-VSCODE_PID = 10968
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.ERUME1
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/include /usr/local/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# makefile
+CURDIR := /home/rmrfslashbin/family-media
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# environment
+LESSOPEN = ||/usr/bin/lesspipe.sh %s
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# environment
+WAYLAND_DISPLAY = wayland-0
+# environment
+HISTSIZE = 50000
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+XDG_SESSION_DESKTOP = gnome
+# environment
+VSCODE_CRASH_REPORTER_START_OPTIONS = {"companyName":"Microsoft","productName":"VSCode","submitURL":"appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=654a8e0d-88bc-48ad-9135-f484eb090453&iid=654a8e0d-88bc-48ad-9135-f484eb090453&sid=654a8e0d-88bc-48ad-9135-f484eb090453","uploadToServer":true}
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+ZSH = /home/rmrfslashbin/.oh-my-zsh
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 358545
+# environment
+XDG_SESSION_TYPE = wayland
+# environment
+TPM2_PKCS11_STORE = /home/rmrfslashbin/.tpm2_pkcs11
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+FZF_DEFAULT_COMMAND = fd --type file --follow --hidden --exclude .git--color=always
+# environment
+MANPAGER = sh -c 'col -bx | bat -l man -p'
+# environment
+SESSION_MANAGER = local/unix:@/tmp/.ICE-unix/2856,unix/unix:/tmp/.ICE-unix/2856
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+BREAKPAD_DUMP_LOCATION = /home/rmrfslashbin/.config/Code/exthost Crash Reports
+# default
+MAKE_HOST := x86_64-redhat-linux-gnu
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# environment
+GJS_DEBUG_TOPICS = JS ERROR;JS LOG
+# environment
+SHLVL = 0
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /home/rmrfslashbin/go/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/home/rmrfslashbin/bin:/home/rmrfslashbin/.composer/vendor/bin:/home/rmrfslashbin/bin
+# environment
+MOZ_GMP_PATH = /usr/lib64/mozilla/plugins/gmp-gmpopenh264/system-installed
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+INVOCATION_ID = 355d9cbceaf346fca790a2d1374b1570
+# environment
+TSS2_LOG = fapi+NONE
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = rmrfslashbin
+# environment
+GNOME_SETUP_DISPLAY = :1
+# automatic
+?F = $(notdir $?)
+# environment
+XDG_CURRENT_DESKTOP = GNOME
+# environment
+LS_COLORS = 
+# automatic
++F = $(notdir $+)
+# environment
+LESS = -R
+# environment
+DESKTOP_SESSION = gnome
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = GNOME
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = rmrfslashbin
+# environment
+GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
+# makefile
+.DEFAULT_GOAL := default_goal
+# environment
+SYSTEMD_EXEC_PID = 2891
+# environment
+HISTCONTROL = ignoredups
+# environment
+EDITOR = nvim
+# environment
+DISPLAY = :0
+# environment
+USER = rmrfslashbin
+# default
+MAKE_VERSION := 4.3
+# environment
+MANROFFOPT = -c
+# environment
+MANAGERPID = 2744
+# environment
+which_declare = typeset -f
+# environment
+DEBUGINFOD_URLS = https://debuginfod.fedoraproject.org/ 
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 358545
+# environment
+PAGER = less
+# environment
+_ = /usr/bin/make
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+GOMODCACHE = /home/rmrfslashbin/go/pkg/mod
+# environment
+JOURNAL_STREAM = 8:38680
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+HOME = /home/rmrfslashbin
+# environment
+QT_IM_MODULE = ibus
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-aa34fd1a-1.63.1-main.sock
+# environment
+GOPROXY = https://proxy.golang.org,direct
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+GDMSESSION = gnome
 # variable set hash-table stats:
-# Load=78/1024=8%, Rehash=0, Collisions=3/101=3%
+# Load=116/1024=11%, Rehash=0, Collisions=8/146=5%
 
 # Pattern-specific Variable Values
 
@@ -176,9 +253,9 @@ VSCODE_PID = 10968
 
 # Directories
 
-# . (device 16777229, inode 1748558): 14 files, no impossibilities.
+# . (device 40, inode 4133028): 17 files, no impossibilities.
 
-# 14 files, no impossibilities in 1 directories.
+# 17 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -186,45 +263,33 @@ VSCODE_PID = 10968
 
 # Files
 
-# Not a target:
-all:
-#  Command-line target.
-#  Implicit rule search has been done.
-#  File does not exist.
-#  File has not been updated.
-# variable set hash-table stats:
-# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
-
-# Not a target:
-.SUFFIXES:
+deploy: install-test build
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-
-# Not a target:
-Makefile:
-#  Implicit rule search has been done.
-#  Last modified 2021-12-15 19:02:08
-#  File has been updated.
-#  Successfully updated.
-# variable set hash-table stats:
-# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
-
-build: install-test
-#  Implicit rule search has not been done.
-#  Modification time never checked.
-#  File has not been updated.
-#  commands to execute (from `Makefile', line 12):
-	@echo "Building..."
-	rm -rf public
-	hugo
-	@echo "Done."
-	
+#  recipe to execute (from 'Makefile', line 18):
+	@echo "Deploying..."
+	hugo deploy
 
 default_goal: run
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
+
+install-test:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 4):
+	test -f themes/papermod/README.md
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+ 
+#  Last modified 2021-12-15 16:59:33.122590834
+#  File has been updated.
+#  Successfully updated.
 
 # Not a target:
 .DEFAULT:
@@ -232,48 +297,46 @@ default_goal: run
 #  Modification time never checked.
 #  File has not been updated.
 
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
 run: install-test
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `Makefile', line 7):
+#  recipe to execute (from 'Makefile', line 7):
 	@echo "Running..."
 	hugo server
 	@echo "Done."
-	
 
-deploy: install-test build
+build: install-test
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `Makefile', line 18):
-	@echo "Deploying..."
-	hugo deploy
-	
-
-install-test:
-#  Implicit rule search has not been done.
-#  Modification time never checked.
-#  File has not been updated.
-#  commands to execute (from `Makefile', line 4):
-	test -f themes/papermod/README.md
-	
+#  recipe to execute (from 'Makefile', line 12):
+	@echo "Building..."
+	rm -rf public
+	hugo
+	@echo "Done."
 
 # files hash-table stats:
-# Load=9/1024=1%, Rehash=0, Collisions=0/26=0%
+# Load=9/1024=1%, Rehash=0, Collisions=0/25=0%
 # VPATH Search Paths
 
-# No `vpath' search paths.
+# No 'vpath' search paths.
 
-# No general (`VPATH' variable) search path.
+# No general ('VPATH' variable) search path.
 
-# # of strings in strcache: 1
-# # of strcache buffers: 1
-# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
-# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+# strcache buffers: 1 (0) / strings = 27 / storage = 239 B / avg = 8 B
+# current buf: size = 8162 B / used = 239 B / count = 27 / avg = 8 B
 
-# Finished Make data base on Wed Dec 15 19:08:32 2021
+# strcache performance: lookups = 41 / hit rate = 34%
+# hash-table stats:
+# Load=27/8192=0%, Rehash=0, Collisions=0/41=0%
+# Finished Make data base on Thu Dec 16 15:00:10 2021
 
- 
-make: *** No rule to make target `all'.  Stop.
  

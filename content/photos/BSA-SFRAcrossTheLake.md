@@ -1,0 +1,28 @@
+---
+title: 'BSA: SFR Across the Lake'
+album:
+  url_root: https://is-family-media.s3.amazonaws.com/images
+  slug: BSA-SFRAcrossTheLake
+  type: png
+  sizes:
+  - source
+  - "256"
+  - "768"
+  images:
+  - 48a5fd9d183cf404a556f41a9676b8d6db466cc6f2bc876ad00d985645ed755d
+  - 0d4e21c212f67cfbd4c6d732360ffefe8db28bc8dc60c4c0ec0cdd0d4a871254
+  - 0dace2659e80fc7bf6d3761c688169c66340339ed36d07580aea7cf433216531
+  - 09c723a0161db18acd1ddf5858707b506b8463b5eeaefe7970acfb5b7827442d
+  - 5ce4fd9a2cc29c76822ca99c367f45a591fca5eb4117b7d589249d1de7e8faca
+  - 2664a48ec020a15902d4797cfc5912acaacf1d5ed7a1245690cc25ea688bf5d3
+  - 1446e854f0de6d9ab775062d62c55c3fb5f749c91c75b52a73a083583155ed39
+  - 9bfea535ec863aea98d14b2c42586cf65af3a776e8ae6ecda1da3140a156fbb4
+  - 772333f72c974aa4ee0b956fb26c970e6ee1ee79f83f2ec71bb42baaf807bf46
+  - 8d62b681c8a24f87a19979c9a0ca05270548da9287fe5fcd10e15e9f408658fa
+  - 91aa390eb74ed024f480a30a95b290bcc972e5eefaa07d87889b8c4057b3b473
+  - 9df6e3f08605a1e2b395ad88abd64763bf85db8c5ee95ba47b86f5fc224759cb
+  - c8d176f520a6383f5aeaed1799a4450e6bfc5ed4ca8dd890bcd2e17da29cfbca
+  - dec2e2b1dbae396bc1cff23e9daaa8dd9c8e1f32e64cc6ab2a064e42ed82b3ec
+  - aab7cd6bce2db5c34b5cebd03cbcb8ebba49031bea8f72e583ea795d30464319
+---
+{{< album >}}

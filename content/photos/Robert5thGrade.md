@@ -1,0 +1,23 @@
+---
+title: Robert in 5th Grade
+album:
+  url_root: https://is-family-media.s3.amazonaws.com/images
+  slug: Robert5thGrade
+  type: png
+  sizes:
+  - source
+  - "256"
+  - "768"
+  images:
+  - 2e879fe99c6d4cd799ce4f5f034310a1c92ed07d6d6b3fc9bb1daa26d95972ae
+  - 1d9ab3b4fe8ebf5f1cbfb5a65e247a592f05e13143c8745298b8e8eaefb69676
+  - 02b3ba7ad07c4adba21c5812c81bdab90f01d307288a9b031261a367d3da72f2
+  - 90901a456a07ac8d8dcfe08c4b61248c7f4453291835ac0f8bb459e41ab127d0
+  - 43d0e46fce8e1be1594637d2d07c4cf61d469573ea5b8b0489b79b4d306789f5
+  - a03e2d5711d99869866922c06ea4117a5af131523f0c65774c5f093a9cdec829
+  - cb09e15381546faa50e50d1f0c3e8282b0a6292d4bd052c98071535cf948acbc
+  - c38d933913ba8550583b513b14268f94de7afe3f4f89d0ecb7a168c34abc664b
+  - e796786819bfafb234ed1f3ace27db7b14169099da67c87a7c7596d0c91c9441
+  - cf0196c2c49b93c3ebea20e4281142c9dd9b398055da1cc3ddbd3817f8117d42
+---
+{{< album >}}

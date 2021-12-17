@@ -1,0 +1,677 @@
+[
+    {
+        "albumName": "19thStreetHouse",
+        "bucket": "is-family-media",
+        "description": "19th Street House"
+    },
+    {
+        "albumName": "21StTerrRandom-PreMoveIn",
+        "bucket": "is-family-media",
+        "description": "21St Terr Random: Pre-Move In"
+    },
+    {
+        "albumName": "21StTerrRandom-RachaelAndDee",
+        "bucket": "is-family-media",
+        "description": "21St Terr Random: Rachael and Dee"
+    },
+    {
+        "albumName": "21StTerrRandom-Random",
+        "bucket": "is-family-media",
+        "description": "21St Terr Random: Random"
+    },
+    {
+        "albumName": "21StTerrRandom-SnowMan",
+        "bucket": "is-family-media",
+        "description": "21 St Terr Random: Snow Man"
+    },
+    {
+        "albumName": "AllCityStrings",
+        "bucket": "is-family-media",
+        "description": "All City Strings"
+    },
+    {
+        "albumName": "AngieAndPuppy",
+        "bucket": "is-family-media",
+        "description": "Angie and Puppy"
+    },
+    {
+        "albumName": "AngieTheBabysitter",
+        "bucket": "is-family-media",
+        "description": "Angie The Babysitter"
+    },
+    {
+        "albumName": "AnnettesBridalShower",
+        "bucket": "is-family-media",
+        "description": "Annettes Bridal Shower"
+    },
+    {
+        "albumName": "ArbuckleWilderness",
+        "bucket": "is-family-media",
+        "description": "Arbuckle Wilderness"
+    },
+    {
+        "albumName": "BBQRestaurant",
+        "bucket": "is-family-media",
+        "description": "BBQ Restaurant"
+    },
+    {
+        "albumName": "BSA",
+        "bucket": "is-family-media",
+        "description": "BSA"
+    },
+    {
+        "albumName": "BSA-17",
+        "bucket": "is-family-media",
+        "description": "BSA: 17"
+    },
+    {
+        "albumName": "BSA-CourtOfHonor",
+        "bucket": "is-family-media",
+        "description": "BSA: Court of Honor"
+    },
+    {
+        "albumName": "BSA-CubScouts",
+        "bucket": "is-family-media",
+        "description": "BSA: Cub Scouts"
+    },
+    {
+        "albumName": "BSA-DrippingSprings",
+        "bucket": "is-family-media",
+        "description": "BSA: Dripping Springs"
+    },
+    {
+        "albumName": "BSA-RandomCamping",
+        "bucket": "is-family-media",
+        "description": "BSA: Random Camping"
+    },
+    {
+        "albumName": "BSA-RandomCamping-01",
+        "bucket": "is-family-media",
+        "description": "BSA: Random Camping: 01"
+    },
+    {
+        "albumName": "BSA-RandomCamping-02",
+        "bucket": "is-family-media",
+        "description": "BSA: Random Camping: 02"
+    },
+    {
+        "albumName": "BSA-RandomCamping-WWLR",
+        "bucket": "is-family-media",
+        "description": "BSA: Random Camping: WWLR"
+    },
+    {
+        "albumName": "BSA-SFRAcrossTheLake",
+        "bucket": "is-family-media",
+        "description": "BSA: SFR Across the Lake"
+    },
+    {
+        "albumName": "BSA-SummerCamp",
+        "bucket": "is-family-media",
+        "description": "BSA: Summer Camp"
+    },
+    {
+        "albumName": "BSA-Winter",
+        "bucket": "is-family-media",
+        "description": "BSA: Winter"
+    },
+    {
+        "albumName": "BSA-depricated",
+        "bucket": "is-family-media",
+        "description": "BSA: Depricated"
+    },
+    {
+        "albumName": "BSA-thumbnails",
+        "bucket": "is-family-media",
+        "description": "BSA: Thumbnails"
+    },
+    {
+        "albumName": "Bolerjack",
+        "bucket": "is-family-media",
+        "description": "Bolerjack"
+    },
+    {
+        "albumName": "BolerjackFarm",
+        "bucket": "is-family-media",
+        "description": "Bolerjack Farm"
+    },
+    {
+        "albumName": "BonnieSigler",
+        "bucket": "is-family-media",
+        "description": "Bonnie Sigler"
+    },
+    {
+        "albumName": "BurntOakDrive",
+        "bucket": "is-family-media",
+        "description": "Burnt Oak Drive"
+    },
+    {
+        "albumName": "Cats",
+        "bucket": "is-family-media",
+        "description": "Cats"
+    },
+    {
+        "albumName": "CherylAndBonnieSigler",
+        "bucket": "is-family-media",
+        "description": "Cheryl and Bonnie Sigler"
+    },
+    {
+        "albumName": "CherylAndDeeAtSonicParty",
+        "bucket": "is-family-media",
+        "description": "Cheryl and Dee at Sonic Party"
+    },
+    {
+        "albumName": "CherylWeaver1970PhotoAlbum",
+        "bucket": "is-family-media",
+        "description": "Cheryl Weaver 1970 Photo Album"
+    },
+    {
+        "albumName": "CherylsFirstTripToAtlanta",
+        "bucket": "is-family-media",
+        "description": "Cheryl's First Trip to Atlanta"
+    },
+    {
+        "albumName": "CherylsNewCar",
+        "bucket": "is-family-media",
+        "description": "Cheryl's New Car"
+    },
+    {
+        "albumName": "ChristmasWithTabers",
+        "bucket": "is-family-media",
+        "description": "Christmas with the Tabers"
+    },
+    {
+        "albumName": "Concord",
+        "bucket": "is-family-media",
+        "description": "Concord"
+    },
+    {
+        "albumName": "CowboyHallOfFame",
+        "bucket": "is-family-media",
+        "description": "Cowboy Hall of Fame"
+    },
+    {
+        "albumName": "DeeAndBonnieSiglerReVisitWillowSprings",
+        "bucket": "is-family-media",
+        "description": "Dee and Bonnie Sigler Revisit Willow Springs"
+    },
+    {
+        "albumName": "DeeAndCherylMcCoyDinner",
+        "bucket": "is-family-media",
+        "description": "Dee and Cheryl at a McCoy Tree Surgery Dinner"
+    },
+    {
+        "albumName": "DeeAndMarkSigler",
+        "bucket": "is-family-media",
+        "description": "Dee and Mark Sigler"
+    },
+    {
+        "albumName": "DeeCherylBolerjackFarm",
+        "bucket": "is-family-media",
+        "description": "Dee and Cheryl at the Bolerjack Farm"
+    },
+    {
+        "albumName": "DeeCherylSteve",
+        "bucket": "is-family-media",
+        "description": "Dee, Cheryl, and Steve"
+    },
+    {
+        "albumName": "DeeCherylWatongaChief",
+        "bucket": "is-family-media",
+        "description": "Dee Cheryl ride The Watonga Chief"
+    },
+    {
+        "albumName": "DeeSigler",
+        "bucket": "is-family-media",
+        "description": "Dee Sigler"
+    },
+    {
+        "albumName": "DeeSiglerFamily",
+        "bucket": "is-family-media",
+        "description": "Dee Sigler Family"
+    },
+    {
+        "albumName": "DisneyTrip",
+        "bucket": "is-family-media",
+        "description": "Disney Trip"
+    },
+    {
+        "albumName": "EasterInIowa",
+        "bucket": "is-family-media",
+        "description": "Easter in Iowa"
+    },
+    {
+        "albumName": "FallenTree",
+        "bucket": "is-family-media",
+        "description": "Fallen Tree"
+    },
+    {
+        "albumName": "Floyd",
+        "bucket": "is-family-media",
+        "description": "Floyd"
+    },
+    {
+        "albumName": "FloydsBDay",
+        "bucket": "is-family-media",
+        "description": "Floyds Birthday"
+    },
+    {
+        "albumName": "GeorgeGavulasBDay",
+        "bucket": "is-family-media",
+        "description": "George Gavulas Birthday"
+    },
+    {
+        "albumName": "GirlScouts-Camping",
+        "bucket": "is-family-media",
+        "description": "Girl Scouts: Camping"
+    },
+    {
+        "albumName": "GirlScouts-FortReno",
+        "bucket": "is-family-media",
+        "description": "Girl Scouts: Fort Reno"
+    },
+    {
+        "albumName": "GirlScouts-HorsebackRiding",
+        "bucket": "is-family-media",
+        "description": "Girl Scouts: Horseback Riding"
+    },
+    {
+        "albumName": "GirlScouts-Meeting",
+        "bucket": "is-family-media",
+        "description": "Girl Scouts: Meeting"
+    },
+    {
+        "albumName": "GirlScouts-Random",
+        "bucket": "is-family-media",
+        "description": "Girl Scouts: Random"
+    },
+    {
+        "albumName": "GirlScouts-Zoo",
+        "bucket": "is-family-media",
+        "description": "Girl Scouts: Zoo"
+    },
+    {
+        "albumName": "HistoricSigler",
+        "bucket": "is-family-media",
+        "description": "Historic Sigler"
+    },
+    {
+        "albumName": "HistoricWeaver",
+        "bucket": "is-family-media",
+        "description": "Historic Weaver"
+    },
+    {
+        "albumName": "HistoricWeaverFamilyPhotos",
+        "bucket": "is-family-media",
+        "description": "Historic Weaver Family Photos"
+    },
+    {
+        "albumName": "HistoricWeaverFamilyPhotos-1955.07.17",
+        "bucket": "is-family-media",
+        "description": "Historic Weaver Family Photos: 1955-07-17"
+    },
+    {
+        "albumName": "IceCapades",
+        "bucket": "is-family-media",
+        "description": "Ice Capades"
+    },
+    {
+        "albumName": "JamieAndRobertDressUp",
+        "bucket": "is-family-media",
+        "description": "Jamie and Robert Dress Up"
+    },
+    {
+        "albumName": "JamieGriffin",
+        "bucket": "is-family-media",
+        "description": "Jamie Griffin"
+    },
+    {
+        "albumName": "JulieSigler",
+        "bucket": "is-family-media",
+        "description": "Julie Sigler"
+    },
+    {
+        "albumName": "LouisCars",
+        "bucket": "is-family-media",
+        "description": "Louis Cars"
+    },
+    {
+        "albumName": "MangamFamilyBDay",
+        "bucket": "is-family-media",
+        "description": "Mangam Family Birthday"
+    },
+    {
+        "albumName": "MarkSigler",
+        "bucket": "is-family-media",
+        "description": "Mark Sigler"
+    },
+    {
+        "albumName": "MarkWeaverFamily",
+        "bucket": "is-family-media",
+        "description": "Mark Weaver Family"
+    },
+    {
+        "albumName": "Mikey",
+        "bucket": "is-family-media",
+        "description": "Mikey"
+    },
+    {
+        "albumName": "Mikey-Adult",
+        "bucket": "is-family-media",
+        "description": "Mikey: Adult"
+    },
+    {
+        "albumName": "Mikey-ArrivalInOK",
+        "bucket": "is-family-media",
+        "description": "Mikey: Arrival in Oklahoma"
+    },
+    {
+        "albumName": "Mikey-PuppyAtRobertsApt",
+        "bucket": "is-family-media",
+        "description": "Mikey: Puppy At Roberts Apartment"
+    },
+    {
+        "albumName": "NelleWeaver",
+        "bucket": "is-family-media",
+        "description": "Nelle Weaver"
+    },
+    {
+        "albumName": "Nikki",
+        "bucket": "is-family-media",
+        "description": "Nikki"
+    },
+    {
+        "albumName": "OrillaRosen",
+        "bucket": "is-family-media",
+        "description": "Orilla Rosen"
+    },
+    {
+        "albumName": "Postcards",
+        "bucket": "is-family-media",
+        "description": "Postcards"
+    },
+    {
+        "albumName": "PreciousMoments",
+        "bucket": "is-family-media",
+        "description": "Precious Moments"
+    },
+    {
+        "albumName": "PumpkinPainting",
+        "bucket": "is-family-media",
+        "description": "Pumpkin Painting"
+    },
+    {
+        "albumName": "RachaelBaby",
+        "bucket": "is-family-media",
+        "description": "Bady Rachael"
+    },
+    {
+        "albumName": "RachaelBeautyPagent",
+        "bucket": "is-family-media",
+        "description": "Rachael's Beauty Pagent"
+    },
+    {
+        "albumName": "RachaelCherylAtFloyds",
+        "bucket": "is-family-media",
+        "description": "Rachael and Cheryl At Floyd's"
+    },
+    {
+        "albumName": "RachaelDance",
+        "bucket": "is-family-media",
+        "description": "Rachael's Dance Photos"
+    },
+    {
+        "albumName": "RachaelInStafordsHotTub",
+        "bucket": "is-family-media",
+        "description": "Rachael in The Staford's Hot Tub"
+    },
+    {
+        "albumName": "RachaelSchoolPhotos",
+        "bucket": "is-family-media",
+        "description": "Rachael School Photos"
+    },
+    {
+        "albumName": "RachaelWithFriends",
+        "bucket": "is-family-media",
+        "description": "Rachael With Friends"
+    },
+    {
+        "albumName": "RachaelYMCAPreSchool",
+        "bucket": "is-family-media",
+        "description": "Rachael YMCA Pre-School"
+    },
+    {
+        "albumName": "RachaelsBDay",
+        "bucket": "is-family-media",
+        "description": "Rachael's Birthday"
+    },
+    {
+        "albumName": "RachaelsBDay-5thBDay",
+        "bucket": "is-family-media",
+        "description": "Rachael's 5th Birthday"
+    },
+    {
+        "albumName": "RachaelsBDay-PerfectSwing",
+        "bucket": "is-family-media",
+        "description": "Rachael's Birthday at Perfect Swing"
+    },
+    {
+        "albumName": "RachaelsBDay-RachaelsFirstBDay",
+        "bucket": "is-family-media",
+        "description": "Rachael's First Birthday"
+    },
+    {
+        "albumName": "RachaelsBDay-Skating",
+        "bucket": "is-family-media",
+        "description": "Rachael's Birthday: Skating"
+    },
+    {
+        "albumName": "RachaelsBDay-UnkBDay",
+        "bucket": "is-family-media",
+        "description": "Rachael's Birthday (Unkown)"
+    },
+    {
+        "albumName": "Random",
+        "bucket": "is-family-media",
+        "description": "Random"
+    },
+    {
+        "albumName": "RandomBDayParty",
+        "bucket": "is-family-media",
+        "description": "Random Birthday Party"
+    },
+    {
+        "albumName": "RandomChristmas",
+        "bucket": "is-family-media",
+        "description": "Random Christmas"
+    },
+    {
+        "albumName": "RandomRachael",
+        "bucket": "is-family-media",
+        "description": "Random Rachael"
+    },
+    {
+        "albumName": "RandomRobert",
+        "bucket": "is-family-media",
+        "description": "Random Robert"
+    },
+    {
+        "albumName": "RandomStorms",
+        "bucket": "is-family-media",
+        "description": "Random Storms"
+    },
+    {
+        "albumName": "RandomThemePark",
+        "bucket": "is-family-media",
+        "description": "Random Theme Park"
+    },
+    {
+        "albumName": "RandomXMasAtSchool",
+        "bucket": "is-family-media",
+        "description": "Random Christmas at School"
+    },
+    {
+        "albumName": "Robert3rdGradeXmasPageant",
+        "bucket": "is-family-media",
+        "description": "Robert's 3rd Grade Christmas Pageant"
+    },
+    {
+        "albumName": "Robert5thGrade",
+        "bucket": "is-family-media",
+        "description": "Robert in 5th Grade"
+    },
+    {
+        "albumName": "Robert5thGradeStrings",
+        "bucket": "is-family-media",
+        "description": "Robert's 5th Grade Strings"
+    },
+    {
+        "albumName": "RobertAndRachaelSigler",
+        "bucket": "is-family-media",
+        "description": "Robert and Rachael Sigler"
+    },
+    {
+        "albumName": "RobertAtStateFair",
+        "bucket": "is-family-media",
+        "description": "Robert at State Fair"
+    },
+    {
+        "albumName": "RobertBDay",
+        "bucket": "is-family-media",
+        "description": "Robert's Birthday"
+    },
+    {
+        "albumName": "RobertPreschool",
+        "bucket": "is-family-media",
+        "description": "Robert in Preschool"
+    },
+    {
+        "albumName": "RobertScienceProject",
+        "bucket": "is-family-media",
+        "description": "Robert's Science Project"
+    },
+    {
+        "albumName": "RobertsBike",
+        "bucket": "is-family-media",
+        "description": "Robert's Bike"
+    },
+    {
+        "albumName": "RobertsBirthdayClock",
+        "bucket": "is-family-media",
+        "description": "Robert's Birthday Clock"
+    },
+    {
+        "albumName": "RobertsSmyrnaApartment",
+        "bucket": "is-family-media",
+        "description": "Robert's Smyrna Apartment"
+    },
+    {
+        "albumName": "RobertsSnowman",
+        "bucket": "is-family-media",
+        "description": "Robert's Snowman"
+    },
+    {
+        "albumName": "SanAntonioTrip",
+        "bucket": "is-family-media",
+        "description": "San Antonio Trip"
+    },
+    {
+        "albumName": "SandyPuppy",
+        "bucket": "is-family-media",
+        "description": "Sandy as a Puppy"
+    },
+    {
+        "albumName": "SesameStreetLive",
+        "bucket": "is-family-media",
+        "description": "Sesame Street Live"
+    },
+    {
+        "albumName": "ShootingTheHooch",
+        "bucket": "is-family-media",
+        "description": "Shooting The Hooch"
+    },
+    {
+        "albumName": "SiglerHome",
+        "bucket": "is-family-media",
+        "description": "Sigler Home"
+    },
+    {
+        "albumName": "SiglersButlers",
+        "bucket": "is-family-media",
+        "description": "Siglers & Butlers"
+    },
+    {
+        "albumName": "StLouis",
+        "bucket": "is-family-media",
+        "description": "St. Louis"
+    },
+    {
+        "albumName": "Tabers",
+        "bucket": "is-family-media",
+        "description": "Tabers"
+    },
+    {
+        "albumName": "TravelingInMO",
+        "bucket": "is-family-media",
+        "description": "Traveling In MO"
+    },
+    {
+        "albumName": "TurnerFalls",
+        "bucket": "is-family-media",
+        "description": "Turner Falls"
+    },
+    {
+        "albumName": "TuscolaPostcards",
+        "bucket": "is-family-media",
+        "description": "Tuscola Postcards"
+    },
+    {
+        "albumName": "VanessaHouse",
+        "bucket": "is-family-media",
+        "description": "Vanessa House"
+    },
+    {
+        "albumName": "WaterBabies",
+        "bucket": "is-family-media",
+        "description": "Water Babies"
+    },
+    {
+        "albumName": "WatongaChief",
+        "bucket": "is-family-media",
+        "description": "Watonga Chief"
+    },
+    {
+        "albumName": "WayneAndBonnieAndCowsAtBolerjackFarm",
+        "bucket": "is-family-media",
+        "description": "Wayne & Bonnie and Cows At the Bolerjack Farm"
+    },
+    {
+        "albumName": "WayneBonnieSigler",
+        "bucket": "is-family-media",
+        "description": "Wayne & Bonnie Sigler"
+    },
+    {
+        "albumName": "WayneSigler",
+        "bucket": "is-family-media",
+        "description": "Wayne Sigler"
+    },
+    {
+        "albumName": "WeaverGirls",
+        "bucket": "is-family-media",
+        "description": "Weaver Girls"
+    },
+    {
+        "albumName": "WeaverHistoric",
+        "bucket": "is-family-media",
+        "description": "Weaver Historic"
+    },
+    {
+        "albumName": "WillowSpringsHouse",
+        "bucket": "is-family-media",
+        "description": "Willow Springs House"
+    },
+    {
+        "albumName": "WitchataWildlife",
+        "bucket": "is-family-media",
+        "description": "Witchata Wildlife"
+    }
+]

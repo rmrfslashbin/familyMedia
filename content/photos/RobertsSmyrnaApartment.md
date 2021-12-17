@@ -1,0 +1,40 @@
+---
+title: Robert's Smyrna Apartment
+album:
+  url_root: https://is-family-media.s3.amazonaws.com/images
+  slug: RobertsSmyrnaApartment
+  type: png
+  sizes:
+  - source
+  - "256"
+  - "768"
+  images:
+  - 7cb969c5fa6003d0a8b6e45576310ed5c250aef0306fb88158b2fa4488388f7c
+  - 66725e04ea2375ba845c1c6654517975b86fcf9fc8cbc747b83cd96a95b005e7
+  - 685d38a73bc48fea9fa698de4d1018af129c8e4d69e852fa2de30d64532b6e9d
+  - d37c15f83fc20d917209ec4b59daa13394677d1b78e2032f2f7981c438382d92
+  - eabaae5551f16bdfe7dcbbac7dabfd042c58f0a1877c50dfdb2e74d20103476b
+  - Handelman_HighSpeed_003
+  - Handelman_HighSpeed_008
+  - Handelman_HighSpeed_005
+  - Handelman_HighSpeed_018
+  - Handelman_HighSpeed_020
+  - Handelman_HighSpeed_022
+  - Handelman_HighSpeed_024
+  - Handelman_HighSpeed_012
+  - b104b1e2f5bb155aa9ad48a83eaf2585f180821ae992463fd7c72dee54b28952
+  - fbbcf33431b759184d6e5e0857ebeefc93eae61db43c3d7ade7de0c61401fc26
+  - 09d52eb7393b000f6a854e7d62e4e2948de4e120ccd11e5002b1a79b9c77fe4a
+  - 149c09482bc8448be13d5408907620a4aef43a8822206bb6f185134fc65db054
+  - 13757bed035eefb81bd49e2ae5933987d39ca6408447d2559674f4b688092cc0
+  - b9d8d49e89f894e2027c4f85cca3943ba63e98b570acadd383a7e8e8f0f898cc
+  - 209c5da5d0b1315b5f5e07bafcf7d4db1030ae37a88502add3ee526484144e1f
+  - 65afd194efe24850a361d6dfc7a8ea8b83d44b3207ff344e4a45e77955cd4c1c
+  - 61266245471e6ffe38debf12127584e2b3172131777436cb3239fdbf4a9f5025
+  - 6fdb396c129e7b163345233dda1ebcaff8a103d0d045e05262c90cae8f5d3ee5
+  - 726a8e2767e1fe055b430cd9d56704b4111b94f2c89d3b659fd2dfbe33d1f05d
+  - 8b5c4a184c2a8e053bf9662a175bc57656cf7bb50b197e504ab868e3c66bc2c6
+  - f8d3c1c2b38615d6fab02887c76cf2b736e0e88e16f1f5477e3b83e0d488b5fe
+  - d6c8da031caa22c75e5016375b6483a555a1c96dac4c991a5d38665f15e542fb
+---
+{{< album >}}

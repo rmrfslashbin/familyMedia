@@ -33,9 +33,10 @@ type MediaFace struct {
 }
 
 type MediaImageAlbum struct {
-	BucketName string   `json:"bucketName"`
-	AlbumName  string   `json:"albumName"`
-	Images     []string `json:"images"`
+	BucketName  string   `json:"bucketName"`
+	AlbumName   string   `json:"albumName"`
+	Images      []string `json:"images"`
+	Description string   `json:"description"`
 }
 
 type MediaVideo struct {
@@ -274,4 +275,52 @@ func (config *DDBDriver) GetFaceWithImage(faceId string, objectURI string) ([]*M
 	}
 
 	return results, nil
+}
+
+func (config *DDBDriver) AddAlbumDescr(bucketName string, albumName string, descr string) error {
+	input := &dynamodb.UpdateItemInput{
+
+		ExpressionAttributeValues: map[string]*dynamodb.AttributeValue{
+			":descr": {
+				S: aws.String(descr),
+			},
+		},
+		Key: map[string]*dynamodb.AttributeValue{
+			"bucketName": {
+				S: aws.String(bucketName),
+			},
+			"albumName": {
+				S: aws.String(albumName),
+			},
+		},
+		UpdateExpression: aws.String("set description = :descr"),
+		TableName:        aws.String(t_family_media_image_albums),
+	}
+
+	_, err := config.db.UpdateItem(input)
+	return err
+}
+
+func (config *DDBDriver) AddVideoDescr(bucketName string, filename string, description string) error {
+	input := &dynamodb.UpdateItemInput{
+
+		ExpressionAttributeValues: map[string]*dynamodb.AttributeValue{
+			":description": {
+				S: aws.String(description),
+			},
+		},
+		Key: map[string]*dynamodb.AttributeValue{
+			"bucketName": {
+				S: aws.String(bucketName),
+			},
+			"filename": {
+				S: aws.String(filename),
+			},
+		},
+		UpdateExpression: aws.String("set description = :description"),
+		TableName:        aws.String(t_family_media_videos),
+	}
+
+	_, err := config.db.UpdateItem(input)
+	return err
 }

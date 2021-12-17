@@ -1,0 +1,24 @@
+---
+title: Burnt Oak Drive
+album:
+  url_root: https://is-family-media.s3.amazonaws.com/images
+  slug: BurntOakDrive
+  type: png
+  sizes:
+  - source
+  - "256"
+  - "768"
+  images:
+  - 1d56eb44309e67b6c86ef3fdafdc3f08dd7b0416dfe62e507bf1325d539565cb
+  - 552a836aec7a457460278fbb109a030a3398f02271e2ab19a77b1baee5509f6d
+  - 6b5705b8639fea608fa3dbd13acf630b9b89e331edeec9b2f51ce38b574de155
+  - 739a6650c4e35075e5762cf6a627efcff40af1293a396f2e4e0801be7db48487
+  - 3fe3035e3ab45e8188d27c55e912e4deab10b1679b416f805cbb468cbc81a081
+  - 8bdeb77cc6c0a440a45a446661a06500be23ba80d7ebb8df2f746d71df76d1ff
+  - a10f0e71eeaf420b8a5e589eb9a9297d476f3bdf101db380f7f017d6983839d1
+  - 8a1a21f1f772b94e39507f7a87a9f8aa32e4b2c84c5b44281f076344527692bf
+  - bede82a3bffc25007d90d9cf499bb7b62c991644581299dc8c89c11588e9d095
+  - 9f3f74ced2e8547798d8302f26eed93053dbc496108ab0dbfaf0cfb5e2a2a9db
+  - b7788bffab87571af49ae246cf8c56afe69cbfcff69ad097468272a573db134b
+---
+{{< album >}}
