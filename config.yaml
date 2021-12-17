@@ -37,8 +37,8 @@ menu:
       name: videos
       url: /videos/
       weight: 30
-      #deployment:
-      #  targets:
-      #    name: aws
-      #    url: "s3://is-static-web-hosting?prefix=/notes.improvisedscience.org/&region=us-east-1"
-      #    cloudFrontDistributionID: E1YRTMBAIVJ37E
+deployment:
+  targets:
+    name: aws
+    url: "s3://is-static-web-hosting?prefix=/family.sigler.io/&region=us-east-1"
+    cloudFrontDistributionID: E36BSCYFRSYU88
